@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: palegoldenrod;
+}
+
+h1 {
+font-size: 36px;
+font-weight: bold;
+color: orange;
+}
+
+h2 {
+font-size: 24px;
+color: lightsalmon;
+}
+
+p {
+    font-size: 20px;
+    color:green;
+}
+
+.list .bullet {
+    color:blueviolet;
+}
+
+.bullet {
+    font-weight: bold;
+}
